@@ -1,1 +1,1 @@
-# Giai-ptr-bac-n
+# Solve nth degree equations
